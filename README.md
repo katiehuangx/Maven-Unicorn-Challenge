@@ -11,9 +11,9 @@ This dataset contains a csv table with 1,074 records, one for each company.
 ## 💡 Highlights
 
 - Valuations in year 2021 makes up one-third of total valuations since the beginning of time.
-- Unicorns in United States and China outperformed the rest of the world consisting up to 72% overall valuations.
-- Bytedance, SpaceX, SHEIN and Stripe are the most successful unicorns which performed better than an average unicorn at $231 billion.
-- Unicorns in AI, E-Commerce and Fintech industries are valued higher than the average unicorn at $3.6 billion. 
+- Unicorns in United States and China outperformed the rest of the world with 72% overall valuations.
+- Bytedance, SpaceX, SHEIN and Stripe are the most successful unicorns which performed better than an average unicorn at $71 billion.
+- Unicorns in AI, E-Commerce, Fintech and Edtech industries are valued higher than the average unicorn at $3.5 billion. 
 - A unicorn takes an average of 7 years to attain valuation of $1billion and become a unicorn.
 
 ## ✏️ Data Wrangling
@@ -34,8 +34,7 @@ Produced a 1-pager dashboard using Tableau.
 
 Tableau: [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes)
 
-![Unicorn Tableau Dashboard](https://user-images.githubusercontent.com/81607668/164384228-df45bfa2-3355-42bd-b6ac-a63ddeb9810a.png)
-
+![Unicorns-2](https://user-images.githubusercontent.com/81607668/164443885-986bf154-9884-4312-b7cd-a1e128ee24b2.png)
 
 
 
